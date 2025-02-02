@@ -77,7 +77,10 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2025 
 
-
+* [NAACL 2025] **Mamba-Shedder: Post-Transformer Compression for Efficient Selective Structured State Space Models**,
+  Juan Pablo Munoz, Jinjie Yuan, Nilesh Jain
+  [[Paper](https://arxiv.org/abs/2501.17088)]
+  [[Code](https://github.com/IntelLabs/Hardware-Aware-Automated-Machine-Learning/tree/main/Mamba-Shedder)] 
 
 * [arXiv:2501.16295] **Mixture-of-Mamba: Enhancing Multi-Modal State-Space Models with Modality-Aware Sparsity**,
   Weixin Liang, Junhong Shen, Genghan Zhang, Ning Dong, Luke Zettlemoyer, Lili Yu
